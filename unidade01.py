@@ -1,2 +1,4 @@
-a = 5
-print(a)
+import turtle
+tartaruga = turtle.Turtle()
+tartaruga.shape("turtle")
+tartaruga.back(100)
